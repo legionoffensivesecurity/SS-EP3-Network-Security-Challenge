@@ -90,6 +90,13 @@ Gain access to the internal host and retrieve the flag from:
 
 ---
 
+## 🙌 Credits
+
+Created by **Heshan Perera** ([@Destinyoo.con](https://destinyoo.con))
+Part of the **LegionOffsec Security Sundays** series.
+
+---
+
 ## 📩 Want More?
 
 For updates, episodes, and hands-on labs, follow **LegionOffsec**:
