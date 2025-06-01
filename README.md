@@ -11,6 +11,7 @@ This lab is designed to test and enhance your skills in:
 * Internal reconnaissance
 * Exploiting internal systems
 
+Writeup Link :  https://blog.destinyoo.com/Legion-OffSec/Legion-SS-EP03-Lab
 ---
 
 ## 🧪 Lab Description
@@ -92,7 +93,7 @@ Gain access to the internal host and retrieve the flag from:
 
 ## 🙌 Credits
 
-Created by **Heshan Perera** ([@Destinyoo.con](https://destinyoo.con))
+Created by **Heshan Perera** ([@Destinyoo.con](https://destinyoo.com))
 Part of the **LegionOffsec Security Sundays** series.
 
 ---
