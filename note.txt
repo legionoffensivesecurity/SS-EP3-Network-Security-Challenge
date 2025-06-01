@@ -1,0 +1,11 @@
+You will be engaging with a network that has already been compromised by hackers, who have been unable to fully infiltrate the internal network. Previously, the network hosted a web server, but the attackers have since shut down and disabled all services, leaving only a backdoor running. Your goal is to locate the open port and host where the backdoor is running. Once discovered, you must connect to it, attempt to pivot into the internal network, identify another host, compromise it, and ultimately read the flag located at /flag.txt.
+
+
++-------------------------+              +-------------------------+              +-------------------------+
+|  Kali Linux AttackBox   |    --->      |  Compromised DMZ Host   |    --->      |      Internal Host      |
+|                         |              |  (Backdoor Open)        |              |(Exploit & get /flag.txt)|
++-------------------------+              +-------------------------+              +-------------------------+
+
+- Try to use built-in Linux bash one-liners rather than using tools.
+- Use ChatGPT; it's okay. ;)
+- Don't change or modify anything, and be a dork to others.
