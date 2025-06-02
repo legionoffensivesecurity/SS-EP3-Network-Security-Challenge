@@ -93,7 +93,7 @@ Gain access to the internal host and retrieve the flag from:
 
 ## 🙌 Credits
 
-Created by **Heshan Perera** ([@Destinyoo.con](https://destinyoo.com))
+Created by **Heshan Perera** ([@Destinyoo.com](https://destinyoo.com))
 Part of the **LegionOffsec Security Sundays** series.
 
 ---
